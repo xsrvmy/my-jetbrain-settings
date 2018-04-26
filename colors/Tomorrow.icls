@@ -2169,7 +2169,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="c82829" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
