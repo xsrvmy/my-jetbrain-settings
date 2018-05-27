@@ -1,9 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.3.1" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="ffc107" />
+    <option name="hideFileIcons" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
+    <option name="tabsHeight" value="32" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
   </component>
 </application>
