@@ -10,7 +10,6 @@
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="32" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
   </component>
