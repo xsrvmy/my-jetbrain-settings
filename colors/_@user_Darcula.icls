@@ -3,16 +3,23 @@
     <property name="created">2018-05-26T20:10:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-05-27T19:31:39</property>
+    <property name="modified">2018-05-27T22:25:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f44336" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f44336" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f44336" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_MERGED" value="9575cd" />
+    <option name="FILESTATUS_MODIFIED" value="ffeb3b" />
+    <option name="FILESTATUS_NOT_CHANGED" value="aed581" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_modifiedOutside" value="ffeb3b" />
   </colors>
 </scheme>
